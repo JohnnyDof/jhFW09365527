@@ -1,0 +1,412 @@
+{
+  "weeks": [
+    {
+      "week": 1,
+      "dates": "2025-05-19 to 2025-05-25",
+      "theme": "Base Building & Recovery",
+      "intent": "Re-establish aerobic consistency post-Bristol 10k",
+      "target_distance_km": 37.0,
+      "target_elevation_m": 200,
+      "summary": {
+        "total_distance_km": 22.72,
+        "total_elevation_m": null,
+        "key_sessions": [
+          {
+            "date": "2025-05-19",
+            "type": "Easy Run",
+            "distance_km": 3.36,
+            "moving_time_min": null,
+            "avg_pace": null,
+            "elevation_m": null,
+            "avg_hr": null,
+            "external_id": null,
+            "notes": "Easy aerobic, post-race reset"
+          },
+          {
+            "date": "2025-05-21",
+            "type": "Hill Repeats",
+            "distance_km": 6.82,
+            "moving_time_min": null,
+            "avg_pace": null,
+            "elevation_m": null,
+            "avg_hr": null,
+            "external_id": null,
+            "notes": "Structured hill repeats, aerobic/threshold blend"
+          },
+          {
+            "date": "2025-05-25",
+            "type": "Long Run (Treadmill)",
+            "distance_km": 12.53,
+            "moving_time_min": null,
+            "avg_pace": null,
+            "elevation_m": null,
+            "avg_hr": null,
+            "external_id": null,
+            "notes": "Indoor aerobic long run, steady effort"
+          }
+        ],
+        "strength_sessions": [
+          {
+            "date": "2025-05-20",
+            "type": "Functional Strength",
+            "duration_min": 45,
+            "focus": "Posterior chain, core, mobility",
+            "external_id": null
+          }
+        ],
+        "cross_training_sessions": [],
+        "race_events": [],
+        "missed_sessions": [],
+        "recovery_metrics": {
+          "avg_sleep_hrv": null,
+          "avg_sleep_hours": null,
+          "avg_resting_hr": null
+        },
+        "fff": {
+          "fatigue": "Low to moderate",
+          "fitness": "Stable",
+          "form": "Neutral"
+        },
+        "carryover_notes": "No issues; progress to aerobic volume increase."
+      },
+      "daily": [
+        {
+          "date": "2025-05-19",
+          "type": "Easy Run",
+          "distance_km": 3.36,
+          "duration_min": null,
+          "elevation_m": null,
+          "avg_pace": null,
+          "avg_hr": null,
+          "rpe": null,
+          "subjective_notes": "Easy aerobic, post-race reset",
+          "external_id": null
+        },
+        {
+          "date": "2025-05-20",
+          "type": "Functional Strength",
+          "duration_min": 45,
+          "rpe": null,
+          "subjective_notes": "Full-body, focus on posterior chain",
+          "external_id": null
+        },
+        {
+          "date": "2025-05-21",
+          "type": "Hill Repeats",
+          "distance_km": 6.82,
+          "duration_min": null,
+          "elevation_m": null,
+          "avg_pace": null,
+          "avg_hr": null,
+          "rpe": null,
+          "subjective_notes": "Tough but form held",
+          "external_id": null
+        },
+        {
+          "date": "2025-05-25",
+          "type": "Long Run (Treadmill)",
+          "distance_km": 12.53,
+          "duration_min": null,
+          "avg_pace": null,
+          "avg_hr": null,
+          "rpe": null,
+          "subjective_notes": "Indoor aerobic long run, steady effort",
+          "external_id": null
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "dates": "2025-05-26 to 2025-06-01",
+      "theme": "Aerobic Volume & Hill Endurance",
+      "intent": "Increase weekly mileage, introduce hill-specific work",
+      "target_distance_km": 39.0,
+      "target_elevation_m": 250,
+      "summary": {
+        "total_distance_km": 39.22,
+        "total_elevation_m": null,
+        "key_sessions": [
+          {
+            "date": "2025-05-27",
+            "type": "Easy Run",
+            "distance_km": 6.82,
+            "moving_time_min": null,
+            "avg_pace": null,
+            "elevation_m": null,
+            "avg_hr": null,
+            "external_id": null,
+            "notes": "Aerobic base"
+          },
+          {
+            "date": "2025-05-28",
+            "type": "Hill Endurance Reps",
+            "distance_km": 7.24,
+            "moving_time_min": null,
+            "avg_pace": null,
+            "elevation_m": null,
+            "avg_hr": null,
+            "external_id": null,
+            "notes": "Extended hill reps, aerobic/threshold blend"
+          },
+          {
+            "date": "2025-05-29",
+            "type": "Easy Run",
+            "distance_km": 5.48,
+            "moving_time_min": null,
+            "avg_pace": null,
+            "elevation_m": null,
+            "avg_hr": null,
+            "external_id": null,
+            "notes": "AM run"
+          },
+          {
+            "date": "2025-05-29",
+            "type": "Easy Run",
+            "distance_km": 5.24,
+            "moving_time_min": null,
+            "avg_pace": null,
+            "elevation_m": null,
+            "avg_hr": null,
+            "external_id": null,
+            "notes": "PM run"
+          },
+          {
+            "date": "2025-06-01",
+            "type": "Long Run (Treadmill)",
+            "distance_km": 14.41,
+            "moving_time_min": null,
+            "avg_pace": null,
+            "elevation_m": null,
+            "avg_hr": null,
+            "external_id": null,
+            "notes": "Indoor aerobic long run, steady and progressive"
+          }
+        ],
+        "strength_sessions": [
+          {
+            "date": "2025-05-30",
+            "type": "Sandbag Strength",
+            "duration_min": 30,
+            "focus": "Posterior chain, single-leg, core",
+            "external_id": null
+          }
+        ],
+        "cross_training_sessions": [],
+        "race_events": [],
+        "missed_sessions": [],
+        "recovery_metrics": {
+          "avg_sleep_hrv": null,
+          "avg_sleep_hours": null,
+          "avg_resting_hr": null
+        },
+        "fff": {
+          "fatigue": "Moderate",
+          "fitness": "Increasing",
+          "form": "Good"
+        },
+        "carryover_notes": "Continue hill work, monitor for niggles."
+      },
+      "daily": [
+        {
+          "date": "2025-05-27",
+          "type": "Easy Run",
+          "distance_km": 6.82,
+          "duration_min": null,
+          "elevation_m": null,
+          "avg_pace": null,
+          "avg_hr": null,
+          "rpe": null,
+          "subjective_notes": "Aerobic base",
+          "external_id": null
+        },
+        {
+          "date": "2025-05-28",
+          "type": "Hill Endurance Reps",
+          "distance_km": 7.24,
+          "duration_min": null,
+          "elevation_m": null,
+          "avg_pace": null,
+          "avg_hr": null,
+          "rpe": null,
+          "subjective_notes": "Legs heavy but aerobic system strong",
+          "external_id": null
+        },
+        {
+          "date": "2025-05-29",
+          "type": "Easy Run",
+          "distance_km": 5.48,
+          "duration_min": null,
+          "elevation_m": null,
+          "avg_pace": null,
+          "avg_hr": null,
+          "rpe": null,
+          "subjective_notes": "AM run",
+          "external_id": null
+        },
+        {
+          "date": "2025-05-29",
+          "type": "Easy Run",
+          "distance_km": 5.24,
+          "duration_min": null,
+          "elevation_m": null,
+          "avg_pace": null,
+          "avg_hr": null,
+          "rpe": null,
+          "subjective_notes": "PM run",
+          "external_id": null
+        },
+        {
+          "date": "2025-05-30",
+          "type": "Sandbag Strength",
+          "duration_min": 30,
+          "rpe": null,
+          "subjective_notes": "Posterior chain, single-leg, core",
+          "external_id": null
+        },
+        {
+          "date": "2025-06-01",
+          "type": "Long Run (Treadmill)",
+          "distance_km": 14.41,
+          "duration_min": null,
+          "avg_pace": null,
+          "avg_hr": null,
+          "rpe": null,
+          "subjective_notes": "Indoor aerobic long run, steady and progressive",
+          "external_id": null
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "dates": "2025-06-02 to 2025-06-08",
+      "theme": "Tempo Progression Work",
+      "intent": "Raise aerobic ceiling, maintain strength",
+      "target_distance_km": 43.1,
+      "target_elevation_m": null,
+      "summary": {
+        "total_distance_km": 43.12,
+        "total_elevation_m": null,
+        "key_sessions": [
+          {
+            "date": "2025-06-05",
+            "type": "Tempo Progression",
+            "distance_km": 10.27,
+            "moving_time_min": 46.8,
+            "avg_pace": "4:32/km",
+            "elevation_m": 70,
+            "avg_hr": 164,
+            "max_hr": 183,
+            "external_id": "i81735031",
+            "notes": "5-block tempo, progressive pace, executed to plan in heavy rain"
+          },
+          {
+            "date": "2025-06-09",
+            "type": "Long Run (Treadmill)",
+            "distance_km": 17.0,
+            "moving_time_min": 85.0,
+            "avg_pace": "5:00/km",
+            "elevation_m": null,
+            "avg_hr": 151,
+            "max_hr": 178,
+            "external_id": "i82338595",
+            "notes": "12km flat, final 5km at 2° incline, felt strong, controlled finish"
+          }
+        ],
+        "strength_sessions": [
+          {
+            "date": "2025-06-06",
+            "type": "Sandbag Strength Circuit",
+            "duration_min": 30,
+            "focus": "Posterior chain, core, single-leg, 30s rest",
+            "external_id": "i81887578"
+          }
+        ],
+        "cross_training_sessions": [],
+        "race_events": [],
+        "missed_sessions": [],
+        "recovery_metrics": {
+          "avg_sleep_hrv": 73.6,
+          "avg_sleep_hours": 5.07,
+          "avg_resting_hr": 48.8
+        },
+        "fff": {
+          "fatigue": "Low to moderate",
+          "fitness": "Stable to increasing",
+          "form": "Good"
+        },
+        "carryover_notes": "Plan for hill tempo fusion; long run to hit target mileage."
+      },
+      "daily": [
+        {
+          "date": "2025-06-03",
+          "type": "Easy Run",
+          "distance_km": 5.09,
+          "duration_min": 27.4,
+          "elevation_m": 70,
+          "avg_pace": "5:23/km",
+          "avg_hr": 139,
+          "rpe": null,
+          "subjective_notes": "Aerobic base, steady",
+          "external_id": "i81462852"
+        },
+        {
+          "date": "2025-06-04 AM",
+          "type": "Commute Run",
+          "distance_km": 5.52,
+          "duration_min": 37,
+          "elevation_m": 76,
+          "avg_pace": "6:42/km (includes 10min inactive)",
+          "avg_hr": 139,
+          "rpe": null,
+          "subjective_notes": "Nursery drop-off, actual pace ~5:05/km",
+          "external_id": "i81553224"
+        },
+        {
+          "date": "2025-06-04 PM",
+          "type": "Commute Run",
+          "distance_km": 5.24,
+          "duration_min": 36.7,
+          "elevation_m": 68,
+          "avg_pace": "7:00/km (includes 10min inactive)",
+          "avg_hr": 139,
+          "rpe": null,
+          "subjective_notes": "Nursery pick-up, actual pace ~5:10/km",
+          "external_id": "i81634641"
+        },
+        {
+          "date": "2025-06-05",
+          "type": "Tempo Progression",
+          "distance_km": 10.27,
+          "duration_min": 46.8,
+          "elevation_m": 70,
+          "avg_pace": "4:32/km",
+          "avg_hr": 164,
+          "max_hr": 183,
+          "rpe": null,
+          "subjective_notes": "5-block tempo, heavy rain, all blocks on target",
+          "external_id": "i81735031"
+        },
+        {
+          "date": "2025-06-06",
+          "type": "Sandbag Strength Circuit",
+          "duration_min": 30,
+          "rpe": null,
+          "subjective_notes": "Posterior chain, core, single-leg, 30s rest",
+          "external_id": "i81887578"
+        },
+        {
+          "date": "2025-06-09",
+          "type": "Long Run (Treadmill)",
+          "distance_km": 17.0,
+          "duration_min": 85.0,
+          "avg_pace": "5:00/km",
+          "avg_hr": 151,
+          "max_hr": 178,
+          "rpe": 6,
+          "subjective_notes": "12km flat, last 5km at 2° incline, strong finish",
+          "external_id": "i82338595"
+        }
+      ]
+    }
+  ]
+}
